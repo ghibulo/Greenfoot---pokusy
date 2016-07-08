@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=sm
+comment0.target=RotacniSipka(char)
+comment1.params=
+comment1.target=void\ nastavBarvu()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ RotacniSipka\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

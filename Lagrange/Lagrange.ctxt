@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Lagrange()
+comment1.params=x\ y
+comment1.target=void\ pridejBod(int,\ int)
+comment2.params=x
+comment2.target=boolean\ uberBod(int)
+comment3.params=x\ y
+comment3.target=boolean\ prepisBod(int,\ int)
+comment4.params=
+comment4.target=void\ spocitejCleny()
+comment5.params=x
+comment5.target=double\ dejFcniHodnotu(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

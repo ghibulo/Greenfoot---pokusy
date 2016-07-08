@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Teleso
+comment0.text=\n\ Write\ a\ description\ of\ class\ Teleso\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=m\ v\ s\ nehybn
+comment1.target=Teleso(int,\ int,\ int,\ boolean)
+comment10.params=
+comment10.target=float[]\ getVMD()
+comment2.params=m\ nehybn
+comment2.target=Teleso(int,\ boolean)
+comment3.params=
+comment3.target=void\ pohyb()
+comment4.params=
+comment4.target=float\ dejRychlost()
+comment5.params=
+comment5.target=boolean\ jeNehybny()
+comment6.params=h
+comment6.target=float\ upravPohyb(float[])
+comment7.params=v\ m\ d\ od\ spolv
+comment7.target=void\ upravSiPohyb(float,\ float,\ float,\ Teleso,\ float)
+comment8.params=
+comment8.target=void\ vyresOdraz()
+comment9.params=
+comment9.target=void\ act()
+numComments=11

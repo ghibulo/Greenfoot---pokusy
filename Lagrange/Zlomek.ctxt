@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=cit\ jm
+comment0.target=Zlomek(long,\ long)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Zlomek\n
+comment1.params=jake
+comment1.target=void\ prictiCislo(long)
+comment2.params=jaky
+comment2.target=void\ prictiZlomek(Zlomek)
+comment3.params=jake
+comment3.target=Zlomek\ plus(long)
+comment4.params=jakym
+comment4.target=void\ nasobCislem(double)
+comment5.params=cim
+comment5.target=Zlomek\ krat(long)
+comment6.params=
+comment6.target=void\ zkratZlomek()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

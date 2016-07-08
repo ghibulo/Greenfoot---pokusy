@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Slovo()
+comment1.params=jake
+comment1.target=Slovo(java.lang.String)
+comment2.params=jake\ c
+comment2.target=void\ nastavObrazek(java.lang.String,\ java.awt.Color)
+comment3.params=svet
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\n\ Act\ -\ do\ whatever\ the\ Slovo\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=5

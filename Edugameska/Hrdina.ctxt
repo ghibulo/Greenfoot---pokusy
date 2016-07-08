@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hrdina()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=nasobek\ uhel
+comment2.target=java.awt.Point\ getVektor(int,\ int)
+comment3.params=kam
+comment3.target=void\ posun(int)
+numComments=4

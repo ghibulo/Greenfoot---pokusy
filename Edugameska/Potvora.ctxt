@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Potvora()
+comment1.params=
+comment1.target=void\ nastavPlan()
+comment2.params=
+comment2.target=void\ jdi()
+comment3.params=velikost
+comment3.target=java.awt.Point\ getVektor(int)
+comment4.params=
+comment4.target=void\ act()
+numComments=5
